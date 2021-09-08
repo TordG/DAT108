@@ -1,4 +1,4 @@
-package oblig1_Oppgave2_Traadsikker;
+package oblig1_Oppgave2_Synch_i_Brett;
 
 
 
